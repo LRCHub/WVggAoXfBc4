@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Decadence",
+  "base_artist": "Disturbed",
+  "createdAt": "2026-02-18T16:13:16.777387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pretty Tied Up (The Perils Of Rock N' Roll Decadence)",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/01_Pretty_Tied_Up_(The_Perils_Of_Rock_N'_Roll_Decadence)_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Children Of Decadence",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/02_Children_Of_Decadence_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Children of Decadence",
+      "artist": "Children of Bodom",
+      "has_synced": false,
+      "path": "select/03_Children_of_Decadence_Children_of_Bodom.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Decadence",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/04_Decadence_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Decadence",
+      "artist": "Sirenia",
+      "has_synced": false,
+      "path": "select/05_Decadence_Sirenia.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Decadence Becomes Me",
+      "artist": "Trail Of Tears",
+      "has_synced": false,
+      "path": "select/06_Decadence_Becomes_Me_Trail_Of_Tears.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Decadence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/07_Decadence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Decadence of Your Starvation",
+      "artist": "Skunk Anansie",
+      "has_synced": false,
+      "path": "select/08_The_Decadence_of_Your_Starvation_Skunk_Anansie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From Dawn To Decadence",
+      "artist": "Trivium",
+      "has_synced": true,
+      "path": "select/09_From_Dawn_To_Decadence_Trivium.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Decadence",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/10_Decadence_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Decadence Dance",
+      "artist": "Extreme",
+      "has_synced": true,
+      "path": "select/11_Decadence_Dance_Extreme.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Decadence Dance (Edit)",
+      "artist": "Extreme",
+      "has_synced": false,
+      "path": "select/12_Decadence_Dance_(Edit)_Extreme.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Decadence of Dignity",
+      "artist": "Falconer",
+      "has_synced": true,
+      "path": "select/13_Decadence_of_Dignity_Falconer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Decadence Dance",
+      "artist": "Extreme",
+      "has_synced": true,
+      "path": "select/14_Decadence_Dance_Extreme.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Decadence Dance",
+      "artist": "Extreme",
+      "has_synced": true,
+      "path": "select/15_Decadence_Dance_Extreme.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Decadence",
+      "artist": "Disturbed",
+      "has_synced": false,
+      "path": "select/pl_01_Decadence_Disturbed.txt"
+    }
+  ]
+}
